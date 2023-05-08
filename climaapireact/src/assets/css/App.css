@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(87, 74, 87);
+}
+.App {
+  text-align: center;
+}
+.input-group{
+  width: 60%;
+}
